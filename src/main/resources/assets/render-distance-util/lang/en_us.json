@@ -1,0 +1,17 @@
+{
+  "key.category.config_key": "Render Distance Util Keybinds",
+
+  "key.render-distance-util.config_key.first_config": "Turn On First Render Distance Config",
+  "key.render-distance-util.config_key.second_config": "Turn On Second Render Distance Config",
+  "key.render-distance-util.config_key.third_config": "Turn On Third Render Distance Config",
+
+  "key.render-distance-util.config_key": "Open Render Distance Util Config",
+
+  "config.render-distance-util.category.general": "Render Distance Util Configuration",
+
+  "config.render-distance-util.option.first_configured_render_distance": "First Configuration for Render Distance",
+  "config.render-distance-util.option.second_configured_render_distance": "Second Configuration for Render Distance",
+  "config.render-distance-util.option.third_configured_render_distance": "Third Configuration for Render Distance",
+
+  "screen.render-distance-util.config.title": "Render Distance Util Configuration"
+}

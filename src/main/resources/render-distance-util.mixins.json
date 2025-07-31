@@ -1,0 +1,19 @@
+{,
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"
+	"required": true,
+	"package": "rinat.render_distance_util.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
